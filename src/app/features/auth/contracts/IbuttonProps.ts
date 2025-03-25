@@ -1,4 +1,4 @@
-export interface ButtonProps {
+export interface IButtonProps {
     text: string;
     onClick: () => void;
     disabled?: boolean;
